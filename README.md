@@ -78,10 +78,9 @@ This repository contains a collection of scripts, utilities, and a Jupyter Noteb
 
 1. **Sine Waves**:
    - Mathematical representation:
-    $$
-    s(t) = A \cdot \sin(2\pi f t + \phi)
-    $$
-
+    <p align=center>
+    <img src="https://latex.codecogs.com/svg.image?&space;s(t)=A\cdot\sin(2\pi&space;f&space;t&plus;\phi)" title=" s(t)=A\cdot\sin(2\pi f t+\phi)" />
+    </p>
 1. **Fourier Transform**:
    - Convert time-domain signals to frequency-domain.
 
@@ -110,4 +109,5 @@ This repository contains a collection of scripts, utilities, and a Jupyter Noteb
 - [McFee, Brian, et al. “librosa: Audio and music signal analysis in python.”](https://brianmcfee.net/papers/scipy2015_librosa.pdf)
 
 ---
+
 
